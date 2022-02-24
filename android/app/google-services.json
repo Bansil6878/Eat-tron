@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "709640666621",
+    "project_id": "eatron-9d9b0",
+    "storage_bucket": "eatron-9d9b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709640666621:android:8095c6e13db8a90c40ed94",
+        "android_client_info": {
+          "package_name": "com.eatron"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709640666621-tpfkle40jebv07ga50u5ga1f605ldlbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwZm4kkmPX_KS994UPiCptZwhLO3qisxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709640666621-tpfkle40jebv07ga50u5ga1f605ldlbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
